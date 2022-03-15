@@ -1,7 +1,7 @@
 ---
 layout: post
 title: welcome to my blog
-date: 2022-03-15 15:13:18 +0000
+date: 2022-03-12 15:13:18 +0000
 image: 12.jpg
 tags: [intro, docs]
 categories: intro
