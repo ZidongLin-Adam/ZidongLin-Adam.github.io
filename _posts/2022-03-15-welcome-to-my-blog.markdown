@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my blog"
+title: welcome to my blog
 date: 2022-03-15 15:13:18 +0000
 image: 12.jpg
 tags: [intro, docs]
